@@ -1,5 +1,8 @@
 <h1>Modern React Calculator</h1>
-<p>A sleek, functional, and visually appealing calculator application built with React. This project showcases a clean user interface with modern design principles, including a stylish gradient border effect.Live Demo➡️ View Live Demo  (Link to be updated with your deployment URL)📜 OverviewThis is a web-based calculator that performs all basic arithmetic operations. The goal of this project was to move beyond a standard calculator's look and feel, creating an application that is not only functional but also aesthetically pleasing. It's built with a component-based architecture using React and styled with modern CSS for a fully responsive experience.</p>
+<p>A sleek, functional, and visually appealing calculator application built with React. This project showcases a clean user interface with modern design principles, including a stylish gradient border effect. </p>
+<br>
+  <h1>📜 Overview</h1>
+  <p>This is a web-based calculator that performs all basic arithmetic operations. The goal of this project was to move beyond a standard calculator's look and feel, creating an application that is not only functional but also aesthetically pleasing. It's built with a component-based architecture using React and styled with modern CSS for a fully responsive experience.</p>
 <br>
 <h1>✨ Key Features</h1>
 <p>Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.Clear Functions: C to clear the current entry and AC (long press or double-tap) to clear all history (All Clear).Responsive Design: Adapts beautifully to all screen sizes, from mobile phones to desktops.Modern UI/UX: A clean, intuitive interface with satisfying visual feedback on button presses.Gradient Border: Features a stylish, eye-catching gradient border that makes the component pop, created using modern CSS techniques without border-image.State Management: Efficiently manages calculator state (current operand, previous operand, operation) using React Hooks (useState, useReducer).</p>
@@ -24,7 +27,7 @@
 ├── App.jsx           # Main application component
 └── main.jsx          # Entry point of the React application
 </p>
-
+<br>
 
 <h1>🌟 Future Improvements</h1>
 <ul>
