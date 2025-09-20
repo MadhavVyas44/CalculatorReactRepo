@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+ 
+}
+
+.container{
+  padding: 10px;
+   border: 2px solid black;
+  width: 400px;
+  min-width: 300px;
+  margin: 10px 10px;
+}
+
+h1{
+ text-align: center;
+}
+
+.heading{
+  background-color: #a9e74a;
+  margin-bottom: 0px;
+}
